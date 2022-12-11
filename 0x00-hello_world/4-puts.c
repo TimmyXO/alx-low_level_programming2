@@ -1,13 +1,17 @@
 #!/bin/bash
 #include <stdio.h>
 
+
+
 /**
 
-* main - Entry point
+* main - Prints quote
 
 *
 
-* Return: always 0
+* Return: zero on success
+
+*
 
 */
 
