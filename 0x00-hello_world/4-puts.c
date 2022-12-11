@@ -1,6 +1,4 @@
 #!/bin/bash
-gcc 4-puts.c
-
 #include <stdio.h>
 
 /**
