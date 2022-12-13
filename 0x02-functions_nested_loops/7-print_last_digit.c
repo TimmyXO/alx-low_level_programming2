@@ -1,4 +1,5 @@
 #include "main.h"
+#include "6-abs.c"
 /**
  * _abs - The absolute value for an interger
  *
