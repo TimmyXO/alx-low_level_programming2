@@ -48,8 +48,7 @@ int _if_not_number(char *s)
 int _atoi(char *s)
 {
 	int i, number, next;
-	char _1st, _2nd;
-	
+	char _1st, _2nd;	
 	number = 0;
 	_1st = *(s + 0);
 	_2nd = *(s + 1);
