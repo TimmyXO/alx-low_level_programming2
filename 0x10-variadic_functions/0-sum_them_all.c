@@ -1,11 +1,11 @@
 #include <stdarg.h>
 
 /**
- *  sum_them_all - adds all its parameters
+ * sum_them_all - adds all its parameters
  *
- *  @n: start of input variables
+ * @n: start of input variables
  *
- *  Return: the sum
+ * Return: the sum
  */
 
 int sum_them_all(const unsigned int n, ...)
