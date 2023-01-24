@@ -33,7 +33,7 @@ int main(int argc, char *argv[])
 		exit(2);
 	}
 
-	for (index = 0; index < nbytes; index++)
+		for (index = 0; index < nbytes; index++)
 	{
 			printf("%02x", ptr[index] & 0xFF);
 			if (index != nbytes - 1)
