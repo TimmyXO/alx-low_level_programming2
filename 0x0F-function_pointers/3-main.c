@@ -45,7 +45,7 @@ int main(int argc, char *argv[])
 	}
 
        /* Error if user tries to divide / (47) or % (37) by 0*/
-if ((*operator == 47 || *operator == 37) && num2 == 0)
+	if ((*operator == 47 || *operator == 37) && num2 == 0)
 {
 	       printf("Error\n");
 	       exit(100);
