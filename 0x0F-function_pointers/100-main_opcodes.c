@@ -34,7 +34,7 @@ int main(int argc, char *argv[])
 	}
 
 	for (index = 0; index < nbytes; index++)
-		{
+	{
 			printf("%02x", ptr[index] & 0xFF);
 			if (index != nbytes - 1)
 				printf(" ");
