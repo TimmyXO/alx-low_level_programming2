@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1677098680,,"wq"
+|2,0,1677102395,,"wq"
 :WQ
 |2,0,1675108284,,"WQ"
 :wq!
@@ -105,34 +105,66 @@
 |3,0,36,0,1,0,1671484238,"%"
 
 # File marks:
-'0  10  0  ~/simple_shell/string1.c
-|4,48,10,0,1677098680,"~/simple_shell/string1.c"
-'1  1  22  ~/simple_shell/string1.c
-|4,49,1,22,1677097642,"~/simple_shell/string1.c"
-'2  4  1  ~/simple_shell/string1.c
-|4,50,4,1,1677097642,"~/simple_shell/string1.c"
-'3  94  0  ~/simple_shell/tokenizer.c
-|4,51,94,0,1677096567,"~/simple_shell/tokenizer.c"
-'4  154  0  ~/simple_shell/vars.c
-|4,52,154,0,1677095596,"~/simple_shell/vars.c"
-'5  15  37  ~/simple_shell/vars.c
-|4,53,15,37,1677093548,"~/simple_shell/vars.c"
-'6  15  37  ~/simple_shell/vars.c
-|4,54,15,37,1677093548,"~/simple_shell/vars.c"
-'7  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,55,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
-'8  62  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,56,62,0,1675741584,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
-'9  69  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
-|4,57,69,0,1675741207,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+'0  96  0  ~/simple-master-/simple_shell
+|4,48,96,0,1677102395,"~/simple-master-/simple_shell"
+'1  1  13  ~/simple_shell/example
+|4,49,1,13,1677101492,"~/simple_shell/example"
+'2  10  0  ~/simple_shell/string1.c
+|4,50,10,0,1677098680,"~/simple_shell/string1.c"
+'3  1  22  ~/simple_shell/string1.c
+|4,51,1,22,1677097642,"~/simple_shell/string1.c"
+'4  4  1  ~/simple_shell/string1.c
+|4,52,4,1,1677097642,"~/simple_shell/string1.c"
+'5  94  0  ~/simple_shell/tokenizer.c
+|4,53,94,0,1677096567,"~/simple_shell/tokenizer.c"
+'6  154  0  ~/simple_shell/vars.c
+|4,54,154,0,1677095596,"~/simple_shell/vars.c"
+'7  15  37  ~/simple_shell/vars.c
+|4,55,15,37,1677093548,"~/simple_shell/vars.c"
+'8  15  37  ~/simple_shell/vars.c
+|4,56,15,37,1677093548,"~/simple_shell/vars.c"
+'9  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,57,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
 
 # Jumplist (newest first):
+-'  96  0  ~/simple-master-/simple_shell
+|4,39,96,0,1677102395,"~/simple-master-/simple_shell"
+-'  1  0  ~/simple-master-/simple_shell
+|4,39,1,0,1677102375,"~/simple-master-/simple_shell"
+-'  1  13  ~/simple_shell/example
+|4,39,1,13,1677101492,"~/simple_shell/example"
+-'  1  13  ~/simple_shell/example
+|4,39,1,13,1677101492,"~/simple_shell/example"
+-'  10  0  ~/simple_shell/string1.c
+|4,39,10,0,1677098680,"~/simple_shell/string1.c"
+-'  10  0  ~/simple_shell/string1.c
+|4,39,10,0,1677098680,"~/simple_shell/string1.c"
+-'  10  0  ~/simple_shell/string1.c
+|4,39,10,0,1677098680,"~/simple_shell/string1.c"
 -'  10  0  ~/simple_shell/string1.c
 |4,39,10,0,1677098680,"~/simple_shell/string1.c"
 -'  1  22  ~/simple_shell/string1.c
 |4,39,1,22,1677098352,"~/simple_shell/string1.c"
+-'  1  22  ~/simple_shell/string1.c
+|4,39,1,22,1677098352,"~/simple_shell/string1.c"
+-'  1  22  ~/simple_shell/string1.c
+|4,39,1,22,1677098352,"~/simple_shell/string1.c"
+-'  1  22  ~/simple_shell/string1.c
+|4,39,1,22,1677098352,"~/simple_shell/string1.c"
 -'  4  1  ~/simple_shell/string1.c
 |4,39,4,1,1677097642,"~/simple_shell/string1.c"
+-'  4  1  ~/simple_shell/string1.c
+|4,39,4,1,1677097642,"~/simple_shell/string1.c"
+-'  4  1  ~/simple_shell/string1.c
+|4,39,4,1,1677097642,"~/simple_shell/string1.c"
+-'  4  1  ~/simple_shell/string1.c
+|4,39,4,1,1677097642,"~/simple_shell/string1.c"
+-'  1  0  ~/simple_shell/string1.c
+|4,39,1,0,1677096661,"~/simple_shell/string1.c"
+-'  1  0  ~/simple_shell/string1.c
+|4,39,1,0,1677096661,"~/simple_shell/string1.c"
+-'  1  0  ~/simple_shell/string1.c
+|4,39,1,0,1677096661,"~/simple_shell/string1.c"
 -'  1  0  ~/simple_shell/string1.c
 |4,39,1,0,1677096661,"~/simple_shell/string1.c"
 -'  94  0  ~/simple_shell/tokenizer.c
@@ -143,6 +175,54 @@
 |4,39,94,0,1677096567,"~/simple_shell/tokenizer.c"
 -'  94  0  ~/simple_shell/tokenizer.c
 |4,39,94,0,1677096567,"~/simple_shell/tokenizer.c"
+-'  94  0  ~/simple_shell/tokenizer.c
+|4,39,94,0,1677096567,"~/simple_shell/tokenizer.c"
+-'  94  0  ~/simple_shell/tokenizer.c
+|4,39,94,0,1677096567,"~/simple_shell/tokenizer.c"
+-'  94  0  ~/simple_shell/tokenizer.c
+|4,39,94,0,1677096567,"~/simple_shell/tokenizer.c"
+-'  94  0  ~/simple_shell/tokenizer.c
+|4,39,94,0,1677096567,"~/simple_shell/tokenizer.c"
+-'  94  0  ~/simple_shell/tokenizer.c
+|4,39,94,0,1677096567,"~/simple_shell/tokenizer.c"
+-'  94  0  ~/simple_shell/tokenizer.c
+|4,39,94,0,1677096567,"~/simple_shell/tokenizer.c"
+-'  94  0  ~/simple_shell/tokenizer.c
+|4,39,94,0,1677096567,"~/simple_shell/tokenizer.c"
+-'  94  0  ~/simple_shell/tokenizer.c
+|4,39,94,0,1677096567,"~/simple_shell/tokenizer.c"
+-'  94  0  ~/simple_shell/tokenizer.c
+|4,39,94,0,1677096567,"~/simple_shell/tokenizer.c"
+-'  94  0  ~/simple_shell/tokenizer.c
+|4,39,94,0,1677096567,"~/simple_shell/tokenizer.c"
+-'  94  0  ~/simple_shell/tokenizer.c
+|4,39,94,0,1677096567,"~/simple_shell/tokenizer.c"
+-'  94  0  ~/simple_shell/tokenizer.c
+|4,39,94,0,1677096567,"~/simple_shell/tokenizer.c"
+-'  1  0  ~/simple_shell/tokenizer.c
+|4,39,1,0,1677096379,"~/simple_shell/tokenizer.c"
+-'  1  0  ~/simple_shell/tokenizer.c
+|4,39,1,0,1677096379,"~/simple_shell/tokenizer.c"
+-'  1  0  ~/simple_shell/tokenizer.c
+|4,39,1,0,1677096379,"~/simple_shell/tokenizer.c"
+-'  1  0  ~/simple_shell/tokenizer.c
+|4,39,1,0,1677096379,"~/simple_shell/tokenizer.c"
+-'  1  0  ~/simple_shell/tokenizer.c
+|4,39,1,0,1677096379,"~/simple_shell/tokenizer.c"
+-'  1  0  ~/simple_shell/tokenizer.c
+|4,39,1,0,1677096379,"~/simple_shell/tokenizer.c"
+-'  1  0  ~/simple_shell/tokenizer.c
+|4,39,1,0,1677096379,"~/simple_shell/tokenizer.c"
+-'  1  0  ~/simple_shell/tokenizer.c
+|4,39,1,0,1677096379,"~/simple_shell/tokenizer.c"
+-'  1  0  ~/simple_shell/tokenizer.c
+|4,39,1,0,1677096379,"~/simple_shell/tokenizer.c"
+-'  1  0  ~/simple_shell/tokenizer.c
+|4,39,1,0,1677096379,"~/simple_shell/tokenizer.c"
+-'  1  0  ~/simple_shell/tokenizer.c
+|4,39,1,0,1677096379,"~/simple_shell/tokenizer.c"
+-'  1  0  ~/simple_shell/tokenizer.c
+|4,39,1,0,1677096379,"~/simple_shell/tokenizer.c"
 -'  1  0  ~/simple_shell/tokenizer.c
 |4,39,1,0,1677096379,"~/simple_shell/tokenizer.c"
 -'  1  0  ~/simple_shell/tokenizer.c
@@ -167,6 +247,54 @@
 |4,39,154,0,1677095596,"~/simple_shell/vars.c"
 -'  154  0  ~/simple_shell/vars.c
 |4,39,154,0,1677095596,"~/simple_shell/vars.c"
+-'  154  0  ~/simple_shell/vars.c
+|4,39,154,0,1677095596,"~/simple_shell/vars.c"
+-'  154  0  ~/simple_shell/vars.c
+|4,39,154,0,1677095596,"~/simple_shell/vars.c"
+-'  154  0  ~/simple_shell/vars.c
+|4,39,154,0,1677095596,"~/simple_shell/vars.c"
+-'  154  0  ~/simple_shell/vars.c
+|4,39,154,0,1677095596,"~/simple_shell/vars.c"
+-'  154  0  ~/simple_shell/vars.c
+|4,39,154,0,1677095596,"~/simple_shell/vars.c"
+-'  154  0  ~/simple_shell/vars.c
+|4,39,154,0,1677095596,"~/simple_shell/vars.c"
+-'  154  0  ~/simple_shell/vars.c
+|4,39,154,0,1677095596,"~/simple_shell/vars.c"
+-'  154  0  ~/simple_shell/vars.c
+|4,39,154,0,1677095596,"~/simple_shell/vars.c"
+-'  154  0  ~/simple_shell/vars.c
+|4,39,154,0,1677095596,"~/simple_shell/vars.c"
+-'  154  0  ~/simple_shell/vars.c
+|4,39,154,0,1677095596,"~/simple_shell/vars.c"
+-'  154  0  ~/simple_shell/vars.c
+|4,39,154,0,1677095596,"~/simple_shell/vars.c"
+-'  154  0  ~/simple_shell/vars.c
+|4,39,154,0,1677095596,"~/simple_shell/vars.c"
+-'  154  0  ~/simple_shell/vars.c
+|4,39,154,0,1677095596,"~/simple_shell/vars.c"
+-'  154  0  ~/simple_shell/vars.c
+|4,39,154,0,1677095596,"~/simple_shell/vars.c"
+-'  154  0  ~/simple_shell/vars.c
+|4,39,154,0,1677095596,"~/simple_shell/vars.c"
+-'  154  0  ~/simple_shell/vars.c
+|4,39,154,0,1677095596,"~/simple_shell/vars.c"
+-'  154  0  ~/simple_shell/vars.c
+|4,39,154,0,1677095596,"~/simple_shell/vars.c"
+-'  154  0  ~/simple_shell/vars.c
+|4,39,154,0,1677095596,"~/simple_shell/vars.c"
+-'  154  0  ~/simple_shell/vars.c
+|4,39,154,0,1677095596,"~/simple_shell/vars.c"
+-'  154  0  ~/simple_shell/vars.c
+|4,39,154,0,1677095596,"~/simple_shell/vars.c"
+-'  154  0  ~/simple_shell/vars.c
+|4,39,154,0,1677095596,"~/simple_shell/vars.c"
+-'  154  0  ~/simple_shell/vars.c
+|4,39,154,0,1677095596,"~/simple_shell/vars.c"
+-'  154  0  ~/simple_shell/vars.c
+|4,39,154,0,1677095596,"~/simple_shell/vars.c"
+-'  154  0  ~/simple_shell/vars.c
+|4,39,154,0,1677095596,"~/simple_shell/vars.c"
 -'  15  37  ~/simple_shell/vars.c
 |4,39,15,37,1677093561,"~/simple_shell/vars.c"
 -'  15  37  ~/simple_shell/vars.c
@@ -184,151 +312,35 @@
 -'  15  37  ~/simple_shell/vars.c
 |4,39,15,37,1677093561,"~/simple_shell/vars.c"
 -'  15  37  ~/simple_shell/vars.c
-|4,39,15,37,1677093548,"~/simple_shell/vars.c"
+|4,39,15,37,1677093561,"~/simple_shell/vars.c"
 -'  15  37  ~/simple_shell/vars.c
-|4,39,15,37,1677093548,"~/simple_shell/vars.c"
+|4,39,15,37,1677093561,"~/simple_shell/vars.c"
 -'  15  37  ~/simple_shell/vars.c
-|4,39,15,37,1677093548,"~/simple_shell/vars.c"
+|4,39,15,37,1677093561,"~/simple_shell/vars.c"
 -'  15  37  ~/simple_shell/vars.c
-|4,39,15,37,1677093548,"~/simple_shell/vars.c"
+|4,39,15,37,1677093561,"~/simple_shell/vars.c"
 -'  15  37  ~/simple_shell/vars.c
-|4,39,15,37,1677093548,"~/simple_shell/vars.c"
+|4,39,15,37,1677093561,"~/simple_shell/vars.c"
 -'  15  37  ~/simple_shell/vars.c
-|4,39,15,37,1677093548,"~/simple_shell/vars.c"
+|4,39,15,37,1677093561,"~/simple_shell/vars.c"
 -'  15  37  ~/simple_shell/vars.c
-|4,39,15,37,1677093548,"~/simple_shell/vars.c"
+|4,39,15,37,1677093561,"~/simple_shell/vars.c"
 -'  15  37  ~/simple_shell/vars.c
-|4,39,15,37,1677093548,"~/simple_shell/vars.c"
--'  155  0  ~/simple_shell/vars.c
-|4,39,155,0,1677093529,"~/simple_shell/vars.c"
--'  16  0  ~/simple_shell/vars.c
-|4,39,16,0,1677093529,"~/simple_shell/vars.c"
--'  155  0  ~/simple_shell/vars.c
-|4,39,155,0,1677093529,"~/simple_shell/vars.c"
--'  16  0  ~/simple_shell/vars.c
-|4,39,16,0,1677093529,"~/simple_shell/vars.c"
--'  155  0  ~/simple_shell/vars.c
-|4,39,155,0,1677093529,"~/simple_shell/vars.c"
--'  16  0  ~/simple_shell/vars.c
-|4,39,16,0,1677093529,"~/simple_shell/vars.c"
--'  155  0  ~/simple_shell/vars.c
-|4,39,155,0,1677093529,"~/simple_shell/vars.c"
--'  16  0  ~/simple_shell/vars.c
-|4,39,16,0,1677093529,"~/simple_shell/vars.c"
--'  155  0  ~/simple_shell/vars.c
-|4,39,155,0,1677093529,"~/simple_shell/vars.c"
--'  16  0  ~/simple_shell/vars.c
-|4,39,16,0,1677093529,"~/simple_shell/vars.c"
--'  155  0  ~/simple_shell/vars.c
-|4,39,155,0,1677093529,"~/simple_shell/vars.c"
--'  16  0  ~/simple_shell/vars.c
-|4,39,16,0,1677093529,"~/simple_shell/vars.c"
--'  155  0  ~/simple_shell/vars.c
-|4,39,155,0,1677093529,"~/simple_shell/vars.c"
--'  16  0  ~/simple_shell/vars.c
-|4,39,16,0,1677093529,"~/simple_shell/vars.c"
--'  155  0  ~/simple_shell/vars.c
-|4,39,155,0,1677093529,"~/simple_shell/vars.c"
--'  16  0  ~/simple_shell/vars.c
-|4,39,16,0,1677093529,"~/simple_shell/vars.c"
--'  1  0  ~/simple_shell/vars.c
-|4,39,1,0,1677093260,"~/simple_shell/vars.c"
--'  1  0  ~/simple_shell/vars.c
-|4,39,1,0,1677093260,"~/simple_shell/vars.c"
--'  1  0  ~/simple_shell/vars.c
-|4,39,1,0,1677093260,"~/simple_shell/vars.c"
--'  1  0  ~/simple_shell/vars.c
-|4,39,1,0,1677093260,"~/simple_shell/vars.c"
--'  1  0  ~/simple_shell/vars.c
-|4,39,1,0,1677093260,"~/simple_shell/vars.c"
--'  1  0  ~/simple_shell/vars.c
-|4,39,1,0,1677093260,"~/simple_shell/vars.c"
--'  1  0  ~/simple_shell/vars.c
-|4,39,1,0,1677093260,"~/simple_shell/vars.c"
--'  1  0  ~/simple_shell/vars.c
-|4,39,1,0,1677093260,"~/simple_shell/vars.c"
--'  1  0  ~/simple_shell/vars.c
-|4,39,1,0,1677093260,"~/simple_shell/vars.c"
--'  1  0  ~/simple_shell/vars.c
-|4,39,1,0,1677093260,"~/simple_shell/vars.c"
--'  1  0  ~/simple_shell/vars.c
-|4,39,1,0,1677093260,"~/simple_shell/vars.c"
--'  1  0  ~/simple_shell/vars.c
-|4,39,1,0,1677093260,"~/simple_shell/vars.c"
--'  1  0  ~/simple_shell/vars.c
-|4,39,1,0,1677093260,"~/simple_shell/vars.c"
--'  1  0  ~/simple_shell/vars.c
-|4,39,1,0,1677093260,"~/simple_shell/vars.c"
--'  1  0  ~/simple_shell/vars.c
-|4,39,1,0,1677093260,"~/simple_shell/vars.c"
--'  1  0  ~/simple_shell/vars.c
-|4,39,1,0,1677093260,"~/simple_shell/vars.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
--'  49  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,39,49,0,1675742449,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+|4,39,15,37,1677093561,"~/simple_shell/vars.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/simple-master-/simple_shell
+	*	1677102393	0
+	"	96	0
+	^	96	0
+
+> ~/simple_shell/example
+	*	1677101489	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
 
 > ~/simple_shell/string1.c
 	*	1677098676	0
@@ -1222,17 +1234,3 @@
 	^	21	0
 	.	20	44
 	+	20	44
-
-> ~/alx-low_level_programming/0x0A-argc_argv/100-change.c
-	*	1673182440	0
-	"	41	0
-	^	41	0
-	.	40	1
-	+	40	1
-
-> ~/alx-low_level_programming/0x0A-argc_argv/4-add.c
-	*	1673181882	0
-	"	30	0
-	^	30	1
-	.	30	0
-	+	30	0
